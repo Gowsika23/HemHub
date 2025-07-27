@@ -41,14 +41,3 @@ This project supports two types of users:
 
 ---
 
-## 📁 Project Folder Structure
-
-Blood-Bank-Management-System/
-│
-├── css/ → Frontend style files (CSS)
-├── file/ → Backend connection PHP files
-├── image/ → Images used in the frontend UI
-├── jastimage/ → Additional images for the UI
-├── sql/ → SQL file to be imported in phpMyAdmin
-├── main.php → Starting point of the application
-└── README.md → This file
